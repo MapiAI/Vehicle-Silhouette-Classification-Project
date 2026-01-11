@@ -1,0 +1,57 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# -------------------------
+# Data files (excluded from repo)
+data/ 
+*.csv 
+*.data 
+*.xlsx 
+*.xls 
+*.parquet
+
+# -------------------------
+# macOS system files
+# -------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -------------------------
+# VSCode / IDE settings
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Cache
+# -------------------------
+*.cache
+.cache/
