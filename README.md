@@ -55,7 +55,7 @@ This model could support automated intake systems, vehicle identification pipeli
 
 ## 🧭 Project Workflow
 
-All steps are implemented inside a single Jupyter Notebook (`vehicle_silhouette_classification.ipynb`), organized into clear sections.
+All steps are implemented inside a single Jupyter Notebook (`VehiclesilhouetteClassificationProject.ipynb`), organized into clear sections.
 
 1. **Data Loading and Initial Inspection**
 2. **Data Cleaning and Preprocessing**
