@@ -84,7 +84,7 @@ Most misclassifications occurred in the **car–van boundary**, the most challen
 - .gitignore
 - data/  (empty)
 - notebooks/
-    - vehicle_silhouette_classification.ipynb
+    - VehicleSilhouetteClassificationProject.ipynb
 - results/
     - confusion_matrices/
     - metrics_summary.csv
